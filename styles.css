@@ -4,5 +4,14 @@ h1{text-align: center}
 h2{text-align: center}
 h3{text-align: center}
 li{list-style-type: none}
-#myplaylist{ background-color: rgb(255, 255, 255); padding; border-radius}
-#nowplaying{ background-color: rgb(255, 255, 255); padding; border-radius}
+#myplaylist
+{ background-color: rgb(255, 255, 255); 
+  padding: 10px; 
+ border-radius:7px;
+ border: 2px solid black;
+}
+#nowplaying{ background-color: rgb(255, 255, 255);
+		   padding: 10px; 
+ border-radius:7px
+		   ;
+ border: 2px solid black;}
