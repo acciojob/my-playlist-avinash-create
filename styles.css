@@ -11,8 +11,15 @@ li{list-style-type: none}
  border: 2px solid black;
  
 }
-#nowplaying{ background-color: rgb(255, 255, 255);
-		   padding: 10px; 
- border-radius:7px
-		   ;
- border: 2px solid black;}
+.player_one {
+    background-color: rgb(255, 255, 255);
+    padding: 10px; /* Adjust the value as per your actual styling */
+    border-radius: 5px;
+	border: 2px solid black;
+}
+.player_two {
+    background-color: rgb(255, 255, 255);
+    padding: 10px; /* Adjust the value as per your actual styling */
+    border-radius: 5px;
+	
+}
